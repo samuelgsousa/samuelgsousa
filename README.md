@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **samuel.sousa.rt@gmail.com**
 
-- 📄 Know about my experiences [I started my career as a Front-end developer a year ago and have been working as a freelancer during this time, developing projects using HTML5, CSS3, Bootstrap, JavaScript (ES6), jQuery, and JSON.](I started my career as a Front-end developer a year ago and have been working as a freelancer during this time, developing projects using HTML5, CSS3, Bootstrap, JavaScript (ES6), jQuery, and JSON.)
+- 📄 Know about my experiences: I started my career as a Front-end developer a year ago and have been working as a freelancer during this time, developing projects using HTML5, CSS3, Bootstrap, JavaScript (ES6), jQuery, and JSON.](I started my career as a Front-end developer a year ago and have been working as a freelancer during this time, developing projects using HTML5, CSS3, Bootstrap, JavaScript (ES6), jQuery, and JSON.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
