@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">A passionate FullStack developer from Brazil</h3>
 
-- 🔭 I’m currently working as a **Junior FullStack Developer** at **HM Soluções Integradas**
+- 🔭 I’m currently working as a **Junior Full-Stack Developer** at **HM Soluções Integradas**
 
 - 🌱 I’m currently learning **Angular.js, MySQL and Nodejs**
 
