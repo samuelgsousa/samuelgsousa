@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portifolio-seven-wine.vercel.app/content/index.html#projects](https://portifolio-seven-wine.vercel.app/content/index.html#projects)
 
-- 💬 Ask me about **Angular,Javascript, Mongo, Node.js Bootstrap, MySQL**
+- 💬 Ask me about **Angular, Javascript, Mongo, Node.js Bootstrap, MySQL**
 
 - 📫 How to reach me **samuel.sousa.rt@gmail.com**
 
