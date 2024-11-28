@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Junior Full-Stack Developer** at **HM Soluções Integradas**
 
-- 🌱 I’m currently learning **Angular.js, MySQL and Nodejs**
+- 🌱 I’m currently developing an **React** project with **MySQL and Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://portifolio-seven-wine.vercel.app/content/index.html#projects](https://portifolio-seven-wine.vercel.app/content/index.html#projects)
 
